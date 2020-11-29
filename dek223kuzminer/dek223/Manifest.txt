@@ -1,0 +1,2 @@
+Main-class: BankTester
+Class-Path: ojdbc8.jar
